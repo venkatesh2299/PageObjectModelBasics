@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 92.909 sec <<< FAILURE! - in TestSuite
+loginTest(com.kmv.testcases.LoginTest)  Time elapsed: 29.141 sec  <<< FAILURE!
+java.lang.AssertionError: Login test failed..
+	at org.testng.Assert.fail(Assert.java:97)
+	at com.kmv.testcases.LoginTest.loginTest(LoginTest.java:23)
+
+createAccountTest(com.kmv.testcases.CreateAccountTest)  Time elapsed: 29.381 sec  <<< FAILURE!
+java.lang.AssertionError: Create account test failed...
+	at org.testng.Assert.fail(Assert.java:97)
+	at com.kmv.testcases.CreateAccountTest.createAccountTest(CreateAccountTest.java:26)
+

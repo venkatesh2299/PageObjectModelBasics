@@ -1,31 +1,16 @@
-25/06/2020 12:15:51 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:15:51 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:15:59 devpinoyLogger Chrome launched..!!!
-25/06/2020 12:16:11 devpinoyLogger Navigated to..: https://www.zoho.com/
-25/06/2020 12:16:15 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:16:15 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:16:15 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:16:15 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:16:19 devpinoyLogger Clicking on an element loginlink_CSS
-25/06/2020 12:16:19 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:16:19 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:16:20 devpinoyLogger Typing in an element email_CSSEntered value as venkateshkm2001@gmail.com
-25/06/2020 12:16:20 devpinoyLogger Clicking on an element nextbtn_XPATH
-25/06/2020 12:16:24 devpinoyLogger Typing in an element password_CSSEntered value as zohokmv2020
-25/06/2020 12:16:24 devpinoyLogger Clicking on an element signin_XPATH
-25/06/2020 12:16:44 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:16:44 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:16:45 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:16:45 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:16:45 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:16:45 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:16:57 devpinoyLogger Clicking on an element crmlink_XPATH
-25/06/2020 12:16:57 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:16:57 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:17:08 devpinoyLogger Clicking on an element accountstab_XPATH
-25/06/2020 12:17:08 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:17:08 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:17:12 devpinoyLogger Clicking on an element gotocreateaccountbtn_XPATH
-25/06/2020 12:17:12 devpinoyLogger Config file loaded..!!!
-25/06/2020 12:17:12 devpinoyLogger OR file loaded..!!!
-25/06/2020 12:17:15 devpinoyLogger Typing in an element accountname_CSSEntered value as Venkata
+06/07/2020 19:48:06 devpinoyLogger Config file loaded..!!!
+06/07/2020 19:48:06 devpinoyLogger OR file loaded..!!!
+06/07/2020 19:48:30 devpinoyLogger Chrome launched..!!!
+06/07/2020 19:49:24 devpinoyLogger Navigated to..: https://www.zoho.com/
+06/07/2020 19:49:28 devpinoyLogger Config file loaded..!!!
+06/07/2020 19:49:28 devpinoyLogger OR file loaded..!!!
+06/07/2020 19:49:29 devpinoyLogger Config file loaded..!!!
+06/07/2020 19:49:29 devpinoyLogger OR file loaded..!!!
+06/07/2020 19:50:10 devpinoyLogger Clicking on an element loginlink_CSS
+06/07/2020 19:50:10 devpinoyLogger Config file loaded..!!!
+06/07/2020 19:50:10 devpinoyLogger OR file loaded..!!!
+06/07/2020 19:50:17 devpinoyLogger Typing in an element email_CSSEntered value as venkateshkm2001@gmail.com
+06/07/2020 19:50:23 devpinoyLogger Config file loaded..!!!
+06/07/2020 19:50:23 devpinoyLogger OR file loaded..!!!
+06/07/2020 19:50:23 devpinoyLogger Config file loaded..!!!
+06/07/2020 19:50:23 devpinoyLogger OR file loaded..!!!
